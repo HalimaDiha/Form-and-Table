@@ -1,0 +1,38 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	padding: 10px;
+	border: 1px solid #0000004a;
+}
+
+label{
+	font-size: 20px;
+}
+
+.first-name,.last-name,.email,.password{
+	width: 90%;
+	height: 20px;
+	padding: 8px;
+	font-size: 16px;
+}
+
+.massege {
+    font-size: 20px;
+    padding: 10px;
+}
+
+button{
+	margin: 10px 0;
+	padding: 5px 8px;
+}
+
+table{
+	width: 60%;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+tr,td{
+	text-align: center;
+	border: 1px solid black;
+}
